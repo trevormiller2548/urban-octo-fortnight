@@ -1,7 +1,8 @@
 # urban-octo-fortnight
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+Repo url: https://github.com/trevormiller2548/urban-octo-fortnight
+Live site: https://trevormiller2548.github.io/urban-octo-fortnight/
 
-  
   ## Description 
   This is a note taking app that uses express and uuid 
 
